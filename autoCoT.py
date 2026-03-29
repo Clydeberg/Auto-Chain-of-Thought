@@ -1,7 +1,7 @@
 from openai import OpenAI
 import json
 client =OpenAI(
-    api_key="AIzaSyAt26Re7NxKWGFKOM7cz5nEDHWho35VbK4",
+    api_key="",
     base_url="https://generativelanguage.googleapis.com/v1beta/"
 )
 SYSTEM_PROMPT = """
